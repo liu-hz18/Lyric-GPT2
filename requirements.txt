@@ -1,0 +1,7 @@
+jsonlines==3.1.0
+matplotlib==3.5.1
+mauve_text==0.3.0
+numpy==1.21.5
+torch==1.13.0
+tqdm==4.64.0
+transformers==4.24.0
